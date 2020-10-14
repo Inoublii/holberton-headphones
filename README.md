@@ -14,21 +14,17 @@ In this project:
  - We are not allowed to import any external CSS framework (like bootstrap)
  - We are not allowed to use Javascript
 
-# Final Screens
-![All](https://github.com/inoublii/holberton-headphones/tree/main/Final-screens/holberton-headphones.jpg)
-
-
 ## Desktop 
 ![Desktop](https://github.com/Inoublii/holberton-headphones/blob/master/Final-screens/01_headphones_desktop%402x.png)  
 
 
 ## Tablet 
-![Tablet](https://github.com/inoublii/holberton-headphones/tree/main/Final-screens/01_headphones_tablet.png)
+![Tablet](https://github.com/Inoublii/holberton-headphones/blob/master/Final-screens/01_headphones_tablet%402x.png)  
 
 
 ## Mobile 
 
-![Mobile](https://github.com/inoublii/holberton-headphones/tree/main/Final-screens/01_headphones_mobile.png)
+![Mobile](https://github.com/Inoublii/holberton-headphones/blob/master/Final-screens/01_headphones_mobile%402x.png)  
 
 
 # Author:
