@@ -14,6 +14,7 @@ In this project:
  - We are not allowed to import any external CSS framework (like bootstrap)
  - We are not allowed to use Javascript
 
+<<<<<<< HEAD
 ## Desktop
 ![Desktop](/Final-screens/01_headphones_desktop%402x.png)
 
@@ -25,6 +26,19 @@ In this project:
 ## Mobile
 
 ![Mobile](/Final-screens/01_headphones_mobile%402x.png)
+=======
+## Desktop 
+![Desktop](/Final-screens/01_headphones_desktop%402x.png)  
+
+
+## Tablet 
+![Tablet](/Final-screens/01_headphones_tablet%402x.png)  
+
+
+## Mobile 
+
+![Mobile](/Final-screens/01_headphones_mobile%402x.png)  
+>>>>>>> f4a6f4a5f558408cc8ed3f6742738f3df4bf0cb3
 
 
 # Author:
