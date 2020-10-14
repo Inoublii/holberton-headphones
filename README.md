@@ -15,22 +15,20 @@ In this project:
  - We are not allowed to use Javascript
 
 # Final Screens
-![All](https://github.com/inoublii/holberton-headphones/blob/master/Final-screens/holberton-headphones.jpg)
+![All](https://github.com/inoublii/holberton-headphones/tree/main/Final-screens/holberton-headphones.jpg)
 
 
-## Desktop (Max-width: 1400 px)
-
-![Desktop](https://github.com/inoublii/holberton-headphones/blob/master/Final-screens/01_headphones_desktop%400x.png)
-
-
-## Tablet (Width: 481px <-> 768px)
-
-![Tablet](https://github.com/inoublii/holberton-headphones/blob/master/Final-screens/01_headphones_tablet%400x.png)
+## Desktop 
+![Desktop](https://github.com/inoublii/holberton-headphones/tree/main/Final-screens/01_headphones_desktop.png)
 
 
-## Mobile (Max-width: 480px)
+## Tablet 
+![Tablet](https://github.com/inoublii/holberton-headphones/tree/main/Final-screens/01_headphones_tablet.png)
 
-![Mobile](https://github.com/inoublii/holberton-headphones/blob/master/Final-screens/01_headphones_mobile%400x.png)
+
+## Mobile 
+
+![Mobile](https://github.com/inoublii/holberton-headphones/tree/main/Final-screens/01_headphones_mobile.png)
 
 
 # Author:
