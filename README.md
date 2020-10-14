@@ -15,16 +15,16 @@ In this project:
  - We are not allowed to use Javascript
 
 ## Desktop 
-![Desktop](https://raw.githubusercontent.com/Inoublii/holberton-headphones/blob/master/Final-screens/01_headphones_desktop%402x.png)  
+![Desktop](/Final-screens/01_headphones_desktop%402x.png)  
 
 
 ## Tablet 
-![Tablet](https://raw.githubusercontent.com/Inoublii/holberton-headphones/blob/master/Final-screens/01_headphones_tablet%402x.png)  
+![Tablet](/Final-screens/01_headphones_tablet%402x.png)  
 
 
 ## Mobile 
 
-![Mobile](https://raw.githubusercontent.com/Inoublii/holberton-headphones/blob/master/Final-screens/01_headphones_mobile%402x.png)  
+![Mobile](/Final-screens/01_headphones_mobile%402x.png)  
 
 
 # Author:
