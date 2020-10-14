@@ -19,7 +19,7 @@ In this project:
 
 
 ## Desktop 
-![Desktop](https://github.com/inoublii/holberton-headphones/tree/main/Final-screens/01_headphones_desktop.png)
+![Desktop](https://github.com/Inoublii/holberton-headphones/blob/master/Final-screens/01_headphones_desktop%402x.png)  
 
 
 ## Tablet 
